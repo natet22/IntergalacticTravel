@@ -8,6 +8,27 @@
 
 import UIKit
 
-class ImageViewController: NSObject {
+class ImageViewController: UIViewController {
+    var isBlueStar: Bool?
+    
 
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        if isBlueStar!
+        {
+            self.view.backgroundColor = UIColor.blueColor()
+        }
+        else
+        {
+            self.view.backgroundColor = UIColor.redColor()
+        }
+    }
 }
+
+        // Do any additional setup after loading the view.
+    
+
+    
+    
+
+

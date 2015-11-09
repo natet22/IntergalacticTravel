@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E704718D1BED04490094A6E2 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E704718C1BED04490094A6E2 /* ImageViewController.swift */; };
+		E70471911BED08ED0094A6E2 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70471901BED08ED0094A6E2 /* ImageViewController.swift */; };
 		E7EA6D891BEBC3FD009713FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EA6D881BEBC3FD009713FA /* AppDelegate.swift */; };
 		E7EA6D8B1BEBC3FD009713FA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EA6D8A1BEBC3FD009713FA /* ViewController.swift */; };
 		E7EA6D8E1BEBC3FD009713FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7EA6D8C1BEBC3FD009713FA /* Main.storyboard */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E704718C1BED04490094A6E2 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		E70471901BED08ED0094A6E2 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 		E7EA6D851BEBC3FD009713FA /* IntergalacticTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntergalacticTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7EA6D881BEBC3FD009713FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7EA6D8A1BEBC3FD009713FA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 				E7EA6D881BEBC3FD009713FA /* AppDelegate.swift */,
 				E7EA6D8A1BEBC3FD009713FA /* ViewController.swift */,
 				E7EA6D8C1BEBC3FD009713FA /* Main.storyboard */,
-				E704718C1BED04490094A6E2 /* ImageViewController.swift */,
+				E70471901BED08ED0094A6E2 /* ImageViewController.swift */,
 				E7EA6D8F1BEBC3FD009713FA /* Assets.xcassets */,
 				E7EA6D911BEBC3FD009713FA /* LaunchScreen.storyboard */,
 				E7EA6D941BEBC3FD009713FA /* Info.plist */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7EA6D8B1BEBC3FD009713FA /* ViewController.swift in Sources */,
-				E704718D1BED04490094A6E2 /* ImageViewController.swift in Sources */,
+				E70471911BED08ED0094A6E2 /* ImageViewController.swift in Sources */,
 				E7EA6D891BEBC3FD009713FA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
